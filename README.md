@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @PPjaisri
-- 👀 I’m interested in Frontend-dev
-- 🌱 I’m currently learning Computer Engineer at Kasetsart University
+- 👋 Hi, I’m @ppjaisri
+- 👀 I’m interested in Frontend-dev, Computer Engineering, and research
+- 🌱 I’m currently studying as a master's student at Nara Institute of Science and Technology (NAIST)
+<!--
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+--->
 
 <!---
 PPjaisri/PPjaisri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
