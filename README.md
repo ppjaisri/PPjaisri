@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ppjaisri
 - 👀 I’m interested in Frontend-dev, Computer Engineering, and research
-- 🌱 I’m currently studying as a master's student at Nara Institute of Science and Technology (NAIST)
+- 🌱 I’m currently studying as a PH.D. student at Nara Institute of Science and Technology (NAIST)
 <!--
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
